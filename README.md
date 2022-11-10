@@ -1,2 +1,1 @@
-# TinDog-website
-Website using Bootstrap
+TinDog website
